@@ -15,5 +15,14 @@ More details regarding the accessibility of Chrome extensions are available [her
 ![image](https://github.com/Renuk9390/expaai_model/assets/34164541/92ae2c96-8558-479b-8d6c-480278e36c45)
 2. To verify that API is built successfully, go to [localhost:](http://localhost:3000/hello)http://localhost:3000/hello as follows:
 ![image](https://github.com/Renuk9390/expaai_model/assets/34164541/51d554a1-4f75-4ec3-905d-80adf18f9b2e)
+3. Make sure Chrome extension is installed properly, refer https://github.com/Renuk9390/expaai_browser_extension_cli
+    Successful installation and once the extension is pinned, you can verify by clicking the icon as follows:
+![image](https://github.com/Renuk9390/expaai_model/assets/34164541/7096f322-a114-4b8e-af3f-a578533b7e61)
+4. Hit the 'Analyse' button to automatically highlight the technical aspects, a successful run will look as below:
+![image](https://github.com/Renuk9390/expaai_model/assets/34164541/863105c4-322b-464e-bffa-8e777686d80b)
+5. Refreshing the opened patent page in Google Patents and reloading the extension helps sometimes if there are any issues!
+6. Runtime of this application is completely dependent on the users' local machine, for instance, in Windows machines with high hardware configurations with GPU, the application is much faster.
+7. This is just a working preliminary prototype with limited capabilities in terms of usability, however, can be modified and extended for personal customizations. 
+
 
 
