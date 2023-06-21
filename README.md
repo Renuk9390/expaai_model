@@ -10,7 +10,7 @@ More details regarding the accessibility of Chrome extensions are available [her
 3. [Fine-tuned models used in API](https://huggingface.co/fassahat)
 4. [Manually labeled data and different evaluations](https://github.com/Renuk9390/expaai_model/tree/main/Paper_Experiments)
 
-#### A use-case scenario in Windows system:
+#### A use-case scenario of the 'Analyse' extension in the Windows system:
 1. Make sure API is deployed locally in your system, refer https://github.com/Renuk9390/expaai_model_api
     After installing, run the app.py by traversing to the directory while keeping tensorflow environment active as follows:
 ![image](https://github.com/Renuk9390/expaai_model/assets/34164541/92ae2c96-8558-479b-8d6c-480278e36c45)
