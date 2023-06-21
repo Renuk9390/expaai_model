@@ -8,7 +8,7 @@ More details regarding the accessibility of Chrome extensions are available [her
 1. [Chromium browser extension](https://github.com/Renuk9390/expaai_browser_extension_cli)
 2. [Flask API for our fine-tuned models](https://github.com/Renuk9390/expaai_model_api)
 3. [Fine-tuned models used in API](https://huggingface.co/fassahat)
-4. Manually labeled data and different evaluations on it is here: Paper_Experiments
+4. [Manually labeled data and different evaluations](https://github.com/Renuk9390/expaai_model/tree/main/Paper_Experiments)
 
 #### A use-case scenario in Windows system:
 1. Make sure API is deployed locally in your system, refer https://github.com/Renuk9390/expaai_model_api
